@@ -1,3 +1,10 @@
+NOTICE: 
+  This is an adaptation of the original JOGL 
+  library to fit the needs of the Halcyon music
+  player. It is advised to not use this library
+  outside of the Halcyon Music Player as certain
+  functionalities may have been altered. :)
+
 Organization of the JOGL source tree
 ------------------------------------
 
@@ -90,11 +97,11 @@ The following individuals made significant contributions to various
 areas of the project (Alphabetical):
 
 Michael Bien
-Alban Cousinié
+Alban CousiniÃ©
 Athomas Goldberg
 Yuri Vladimir Gushchin
 Gregory Pierce
-Dominik Ströhlein (DemoscenePassivist)
+Dominik StrÃ¶hlein (DemoscenePassivist)
 Wade Walker
 Carsten Weisse
 
